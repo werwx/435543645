@@ -1,0 +1,10 @@
+ if (DataContext is MainViewModel vm && e.NewValue is Models.FolderNode selectedNode)
+            {
+                vm.SelectedFolder = selectedNode;
+                
+                if (selectedNode.IsLoading)
+                {
+                    selectedNode.IsLoading = false;
+                    await vm.LoadSubFoldersAsync(selectedNode);
+                }
+            }
