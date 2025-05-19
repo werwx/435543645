@@ -1,0 +1,209 @@
+-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users-- 基本查询
+SELECT $ FROM users WHERE $.age > 18
+
+-- 嵌套字段查询
+SELECT $.address.city FROM users WHERE $.address.city = "北京"
+
+-- 分页查询
+SELECT $ FROM users LIMIT 10 OFFSET 20
+
+-- 排序查询
+SELECT $ FROM users ORDER BY $.age DESC
+
+-- 聚合查询
+SELECT COUNT($) AS total, AVG($.age) AS avg_age FROM users
